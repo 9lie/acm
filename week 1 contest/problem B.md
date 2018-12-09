@@ -14,6 +14,8 @@
 然后又有一个问题，那就是用codeblock时的`pow()`函数计算整数不精确
 
 所以写了一个整数的快速幂函数，顺便复习了一下快速幂怎么写
+
+`printf()`函数打印`long long`时要用`%lld`
 ## 代码：
 ```cpp
 #include <bits/stdc++.h>
