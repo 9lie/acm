@@ -1,4 +1,4 @@
-# G-A + B Problem II
+# H-A + B Problem II
 
 来源：HDU - 1002
 

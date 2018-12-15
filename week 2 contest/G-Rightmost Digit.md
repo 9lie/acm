@@ -1,4 +1,4 @@
-# H-Rightmost Digit
+# G-Rightmost Digit
 
 来源：HDU - 1061
 
