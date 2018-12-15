@@ -44,7 +44,7 @@ for (int i = 0; i < a.size(); i++) cout << a[i] << endl;
 ```cpp
 #include <vector>
 
-vector<int> a = {1, 2, 3, 4};
+vector<int> a = {1, 2, 3, 4}; // 只能在C++11里使用
 
 cout << a[1] << endl;
 ```
