@@ -90,7 +90,7 @@ An - c + ACE = Bn
 Bn + ace = An - c + ACE + c = An + ACE
 ```
 
-这与`Bn + ace > An + ACE`向矛盾，所以不存在比An + ACE的更优解
+这与`Bn + ace > An + ACE`相矛盾，所以不存在比An + ACE的更优解
 
 证毕
 
